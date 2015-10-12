@@ -1,14 +1,14 @@
 {
-  "name": "reactogo",
+  "name": "React Motion Bench Mark",
   "version": "1.0.0",
-  "description": "Kickstarter with react and webpack",
+  "description": "Comparison of react motion with other animations libs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/PBRT/reactogo.git"
+    "url": "git://github.com/PBRT/reactMotionBenchMark.git"
   },
   "author": "PBRT",
   "license": "ISC",
